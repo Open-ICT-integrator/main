@@ -1,0 +1,3 @@
+[submodule "Gateway"]
+	path = Gateway
+	url = https://github.com/Open-ICT-integrator/Gateway.git
